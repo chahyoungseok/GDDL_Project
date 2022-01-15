@@ -18,7 +18,7 @@
 
 # Project Name = 갖다드림(bring you)
 # Team Member : 김준혁, 김형진, 마건우, 옥석우, 차형석
-# Youtube Link(어플 소개 및 구동영상) : https://youtu.be/jB9QAhMm0tQ
+### Youtube Link(어플 소개 및 구동영상) : https://youtu.be/jB9QAhMm0tQ
 
 ___
 ## 목차
